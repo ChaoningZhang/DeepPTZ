@@ -8,7 +8,7 @@ With the dataset, you can run the code with command: bash run.sh.
 
 For only evaluating the performance, you can use the pretrained model which is available at https://cloud.frameau.xyz/index.php/s/EgnEzJidkGkkbcQ
 
-If you have any questions regarding the code or our work, please an isssue and we will address it.
+If you have any questions regarding the code or our work, please leave an isssue and we will address it.
 
 Contact through chaoningzhang1990@gmail.com if you need any extra help.
 
