@@ -13,6 +13,8 @@ If you have any questions regarding the code or our work, please an isssue and w
 Contact through chaoningzhang1990@gmail.com if you need any extra help.
 
 If you use our code, please cite through
+
+```
 @InProceedings{Zhang_2020_WACV,
 author = {Zhang, Chaoning and Rameau, Francois and Kim, Junsik and Argaw, Dawit Mureja and Bazin, Jean-Charles and Kweon, In So},
 title = {DeepPTZ: Deep Self-Calibration for PTZ Cameras},
@@ -20,3 +22,4 @@ booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Co
 month = {March},
 year = {2020}
 } 
+```
